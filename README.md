@@ -172,6 +172,14 @@ And even though the inconsistent color, it output correctly generate:
 ![Confusion Matrices](output/5_multi_task/confusion_matrices.png)
 ![Decision Boundaries](output/5_multi_task/decision_boundaries.png)
 
+### Read Table from PDF directly
+
+The system is also tested on embedded table.
+
+![Confusion Matrices](output/6_read_tbl_from_pdf/fitted_models_plot.png)
+![Decision Boundaries](output/6_read_tbl_from_pdf/model_comparison_plot.png)
+
 ### Limitations
 - The effectiveness of an agentic system is highly dependent on the underlying model’s capabilities, particularly its ability to follow instructions. Fine-tuning the Router to reliably produce a strict output format would significantly improve system robustness.
 - There are currently no well-established metrics for evaluating or comparing agentic system performance.
+
