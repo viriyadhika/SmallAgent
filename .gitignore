@@ -2,3 +2,8 @@
 __pycache__
 .venv
 chroma_db
+data/downloads
+data/extracted_tables
+data/models
+.vscode
+.DS_Store
