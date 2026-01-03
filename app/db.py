@@ -24,7 +24,7 @@ class ChromaStore:
         )
         
         return (
-            results["documents"][0],
-            results["metadatas"][0],
+            results["documents"],
+            results["metadatas"],
         )
 

@@ -26,10 +26,20 @@ import cv2
 import clip
 import requests
 from transformers import AutoTokenizer, RobertaForSequenceClassification
-
+from typing import List, Any
 
 # Local modules
 import app.utils.postprocess as postprocess
+from dataclasses import dataclass
+
+@dataclass
+class ExtractedPDF:
+    image: Image
+    confidence: float
+    caption: str
+    caption_bbox: tuple[int, int, int, int]
+    cells: Any
+    markdown: str
 
 class PDFTableExtractor:
     def __init__(
@@ -123,7 +133,7 @@ class PDFTableExtractor:
         self.class_model.to(self.device)
         self.class_model.eval()
 
-    def _is_good_caption(self, text: str, threshold=0.5) -> bool:
+    def _is_good_caption(self, text: str, threshold=0.65) -> bool:
         """
         Returns True if classifier predicts this text is a useful caption.
         """
@@ -142,7 +152,7 @@ class PDFTableExtractor:
         # label 1 = positive
         return probs[0, 1].item() >= threshold
     
-    def extract(self, page):
+    def extract(self, page) -> tuple[list[ExtractedPDF], list]:
         def bbox_iou(b1, b2):
             x0 = max(b1[0], b2[0])
             y0 = max(b1[1], b2[1])
@@ -275,7 +285,7 @@ class PDFTableExtractor:
             table_rect,
             page,
             text_blocks,
-            reranker,
+            reranker: CrossEncoderReranker,
             dpi,
             k_spatial=4,
         ):
@@ -307,10 +317,10 @@ class PDFTableExtractor:
             documents = [tb["text"] for tb in candidates]
 
             ranked = reranker.rerank(
-                query=query,
-                documents=documents,
-                metadatas=candidates,
-            )
+                queries=[query],
+                all_documents=[documents],
+                all_metadatas=[candidates],
+            )[0]
 
             # ---- debug ----
             print("\n=========== TABLE CAPTION (MARKDOWN QUERY) ===========")
@@ -425,7 +435,7 @@ class PDFTableExtractor:
                 ) if caption_block is not None else (0,0,0,0)
 
                 caption_bbox = (cap_x0, cap_y0, cap_x1, cap_y1)
-                results.append(self._process_table(page, box.xyxy[0].tolist(), scale_x, scale_y, extracted_text, caption_bbox))
+                results.append(ExtractedPDF(**self._process_table(page, box.xyxy[0].tolist(), scale_x, scale_y, extracted_text, caption_bbox)))
             if cls_name == "Picture":
                 caption_block = find_caption_for_picture(
                     target_bbox=bbox_pdf,
@@ -445,12 +455,14 @@ class PDFTableExtractor:
                 ) if caption_block is not None else (0,0,0,0)
 
                 caption_bbox = (cap_x0, cap_y0, cap_x1, cap_y1)
-                results.append({
-                    "image": cropped_img,
-                    "confidence": conf,
-                    "caption": extracted_text,
-                    "caption_bbox": caption_bbox
-                })
+                results.append(ExtractedPDF(
+                    image=cropped_img,
+                    confidence= conf,
+                    caption= extracted_text,
+                    caption_bbox= caption_bbox,
+                    cells= None,
+                    markdown= ""
+                ))
 
             viz_items.append({
                 "figure_bbox_pdf": bbox_pdf,
@@ -756,12 +768,15 @@ class PDFIngestor:
         partitioner: PDFPartitioner,
         embedder: Embedder,
         store: ChromaStore,
+        table_extractor: PDFTableExtractor
     ):
         self.splitter = splitter
         self.partitioner = partitioner
         self.embedder = embedder
         self.store = store
         self.global_chunk_id = 0
+        self.table_extractor = table_extractor
+        self.db_path = "data/user_data"
 
     def ingest(
         self,
@@ -772,10 +787,54 @@ class PDFIngestor:
     ):
         part_pdfs = self.splitter.split(pdf_path, split_dir)
         print(f"Split into {len(part_pdfs)} PDF parts")
+        # Images
+        for part_idx, part in enumerate(part_pdfs, start=1):
+            part_pdf = part["path"]
+            part_start_page = part["start_page"]
 
+            doc = fitz.open(part_pdf)
+
+            for page_idx, page in enumerate(doc, start=1):
+                original_page = part_start_page + page_idx - 1
+                extracted, _ = self.table_extractor.extract(page)
+
+                for table in extracted:
+                    if not table.markdown:
+                        continue
+
+                    content = (
+                        f"Caption: {table.caption}\n Table: \n{table.markdown}"
+                        if table.caption
+                        else table.markdown
+                    )
+
+                    embedding_text = table.caption or table.markdown
+                    embeddings = self.embedder.embed([embedding_text])
+
+                    metadata = {
+                        "source": source_name,
+                        "part_pdf": Path(part_pdf).name,
+                        "page": original_page,
+                        "type": "table",
+                    }
+
+                    doc_id = f"{source_name}_table_{self.global_chunk_id}"
+
+                    self.store.add(
+                        documents=[content],
+                        embeddings=embeddings.tolist(),
+                        metadatas=[metadata],
+                        ids=[doc_id],
+                    )
+
+                    self.global_chunk_id += 1
+        
+        
+        # For the text
         for idx, part in enumerate(part_pdfs, start=1):
             part_pdf = part["path"]
             part_start_page = part["start_page"]
+
 
             chunks = self.partitioner.partition(part_pdf)
             if not chunks:
@@ -829,25 +888,28 @@ class CrossEncoderReranker:
 
     def rerank(
         self,
-        query: str,
-        documents: List[str],
-        metadatas: List[Dict],
-    ) -> List[Tuple[float, str, Dict]]:
-        pairs = [(query, doc) for doc in documents]
-        scores = self.model.predict(pairs)
+        queries: List[str],
+        all_documents: List[List[str]],
+        all_metadatas: List[List[Dict]],
+    ) -> List[List[Tuple[float, str, Dict]]]:
+        results = []
+        for query, documents, metadatas in zip(queries, all_documents, all_metadatas):
+            pairs = [(query, doc) for doc in documents]
+            scores = self.model.predict(pairs)
 
-        # 🔑 Handle NLI models
-        if scores.ndim == 2:
-            # entailment is index 2
-            scores = scores[:, 2]
+            # 🔑 Handle NLI models
+            if scores.ndim == 2:
+                # entailment is index 2
+                scores = scores[:, 2]
 
-        ranked = sorted(
-            zip(scores, documents, metadatas),
-            key=lambda x: x[0],
-            reverse=True,
-        )
+            ranked = sorted(
+                zip(scores, documents, metadatas),
+                key=lambda x: x[0],
+                reverse=True,
+            )
+            results.append(ranked[:self.top_k])
 
-        return ranked[: self.top_k]
+        return results
 
 
 class RAGRetriever:
@@ -863,9 +925,9 @@ class RAGRetriever:
         self.reranker = reranker
         self.recall_k = recall_k
 
-    def search(self, query: str):
+    def search(self, queries: List[str]):
         # 1️⃣ Embed query
-        q_emb = self.embedder.embed([query])
+        q_emb = self.embedder.embed(queries)
 
         # 2️⃣ High-recall vector search
         docs, metas = self.vector_store.search(
@@ -876,9 +938,9 @@ class RAGRetriever:
 
         # 3️⃣ Rerank for answer relevance
         ranked = self.reranker.rerank(
-            query=query,
-            documents=docs,
-            metadatas=metas,
+            queries=queries,
+            all_documents=docs,
+            all_metadatas=metas,
         )
 
         return ranked
@@ -1051,7 +1113,7 @@ class QueryAnswererTool(Tool):
 
     def execute(self, question: str) -> ToolResult:
         # Run baseline RAG
-        docs = self.rag.search(question)
+        docs = self.rag.search([question])[0]
 
         raw_docs = []
         for score, doc, meta in docs:

@@ -1,0 +1,238 @@
+You are an LLM as a judge. You are supposed to judge between the 2 RAG result below. Can you tell me which one is better? Give a score for each 1 to 5 for each retrieval with 5 being good in the format of Retrieval 1: <score>, Retrieval 2: <score> and a short reason why. 
+ Retrieval 1
+Question: How does Dumbledore explain the power that protected Harry from Voldemort? 
+[harry_potter_p0161-0180.pdf | Page 168] “Oh, come on, Hagrid, you might not want to tell us, but you do know, you know everything that goes on round here,” said Hermione in a warm, flattering voice. Hagrid’s beard twitched and they could tell he was smiling. “We only wondered who had done the guarding, really.” Hermione went on. “We wondered who Dumbledore had trusted enough to help him, apart from you.”
+
+Hagrid’s chest swelled at these last words. Harry and Ron beamed at Hermione.
+
+“Well, I don’ s’pose it could hurt ter tell yeh that…let’s see…he borrowed Fluffy from me…then some o’ the teachers did enchantments… Professor Sprout — Professor Flitwick — Professor McGonagall —” he ticked them off on his fingers, “Professor Quirrell — an’ Dumbledore himself did somethin’, o’ course. Hang on, I’ve forgotten someone. Oh yeah, Professor Snape.”
+
+“Snape?”
+
+“Yeah — yer not still on abou’ that, are yeh? Look, Snape helped protect the Stone, he’s not about ter steal it.”
+
+Harry knew Ron and Hermione were thinking the same as he was. If Snape had been in on protecting the Stone, it must have been easy to find out how the other teachers had guarded it. He probably knew everything — except, it seemed, Quirrell’s spell and how to get past Fluffy.
+[harry_potter_p0181-0200.pdf | Page 188] “So all I’ve got to wait for now is Snape to steal the Stone,” Harry went on feverishly, “then Voldemort will be able to come and finish me off ... Well, I suppose Bane’ll be happy.”
+
+Hermione looked very frightened, but she had a word of comfort.
+
+“Harry, everyone says Dumbledore’s the only one You-Know-Who was ever afraid of with Dumbledore around, You-Know-Who won’t touch you. Anyway, who says the centaurs are right? It sounds like fortune-telling to me, and Professor McGonagall says that’s a very imprecise branch of magic.”
+
+The sky had turned light before they stopped talking. They went to bed exhausted, their throats sore. But the night’s surprises weren’t over.
+
+When Harry pulled back his sheets, he found his invisibility cloak folded neatly underneath them. There was a note pinned to it:
+
+Just in case.
+[harry_potter_p0061-0080.pdf | Page 75] Harry unwrapped his Chocolate Frog and picked up the card. It showed a man’s face. He wore half-moon glasses, had a long, crooked nose, and flowing silver hair, beard, and mustache. Underneath the picture was the name Albus Dumbledore.
+
+“So this is Dumbledore!” said Harry.
+
+“Don’t tell me you’d never heard of Dumbledore!” said Ron. “Can I have a frog? I might get Agrippa — thanks —”
+
+Harry turned over his card and read:
+
+ALBUS DUMBLEDORE
+
+CURRENTLY HEADMASTER OF HOGWARTS
+
+C onsidered by many the greatest wizard of modern times, Dumbledore is particularly famous for his defeat of the dark wizard Grindelwald in 1945, for the discovery of the twelve uses of dragon’s blood, and his work on alchemy with his partner, Nicolas Flamel. Professor Dumbledore enjoys chamber music and tenpin bowling.
+
+Harry turned the card back over and saw, to his astonishment, that Dumbledore’s face had disappeared.
+
+“He’s gone!”
+
+“Well, you can’t expect him to hang around all day,” said Ron. “He’ll be back. No, I’ve got Morgana again and I’ve got about six of her…do you want it? You can start collecting.”
+
+Ron’s eyes strayed to the pile of Chocolate Frogs waiting to be unwrapped.
+
+“Help yourself,” said Harry. “But in, you know, the Muggle world,
+[harry_potter_p0201-0220.pdf | Page 215] Dumbledore now became very interested in a bird out on the windowsill, which gave Harry time to dry his eyes on the sheet. When he had found his voice again, Harry said, “And the invisibility cloak — do you know who sent it to me?”
+
+“Ah — your father happened to leave it in my possession, and I thought you might like it.” Dumbledore’s eyes twinkled. “Useful things…your father used it mainly for sneaking off to the kitchens to steal food when he was here.”
+
+“And there’s something else…”
+
+“Fire away.”
+
+“Quirrell said Snape —”
+
+“Professor Snape, Harry.”
+
+“Yes, him — Quirrell said he hates me because he hated my father. Is that
+
+true?”
+
+“Well, they did rather detest each other. Not unlike yourself and Mr. Malfoy. And then, your father did something Snape could never forgive.” “What?”
+
+“What?”
+
+“He saved his life.”
+
+“What?”
+
+“Yes…” said Dumbledore dreamily. “Funny, the way people’s minds work, isn’t it? Professor Snape couldn’t bear being in your father’s debt…I do believe he worked so hard to protect you this year because he felt that would make him and your father even. Then he could go back to hating your father’s memory in peace.…”
+
+Harry tried to understand this but it made his head pound, so he stopped. “And sir, there’s one more thing…”
+[harry_potter_p0201-0220.pdf | Page 212] He blinked. It wasn’t the Snitch at all. It was a pair of glasses. How strange.
+
+He blinked again. The smiling face of Albus Dumbledore swam into view above him.
+
+“Good afternoon, Harry,” said Dumbledore.
+
+Harry stared at him. Then he remembered: “Sir! The Stone! It was Quirrell! He’s got the Stone! Sir, quick —”
+
+“Calm yourself, dear boy, you are a little behind the times,” said Dumbledore. “Quirrell does not have the Stone.”
+
+“Then who does? Sir, I —”
+
+“Harry, please relax, or Madam Pomfrey will have me thrown out.”
+
+Harry swallowed and looked around him. He realized he must be in the hospital wing. He was lying in a bed with white linen sheets, and next to him was a table piled high with what looked like half the candy shop.
+
+“Tokens from your friends and admirers,” said Dumbledore, beaming. “What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows. I believe your friends Misters Fred and George Weasley were responsible for trying to send you a toilet seat. No doubt they thought it would amuse you. Madam Pomfrey, however, felt it might not be very hygienic, and confiscated it.”
+
+“How long have I been in here?”
+ Retrieval 2
+Question: How does Dumbledore explain the power that protected Harry from Voldemort? 
+[harry_potter_p0201-0220.pdf | Page 214] Harry nodded, but stopped quickly, because it made his head hurt. Then he said, “Sir, there are some other things I’d like to know, if you can tell me… things I want to know the truth about.…”
+
+“The truth.” Dumbledore sighed. “It is a beautiful and terrible thing, and should therefore be treated with great caution. However, I shall answer your questions unless I have a very good reason not to, in which case I beg you’ll forgive me. I shall not, of course, lie.”
+
+“Well…Voldemort said that he only killed my mother because she tried to stop him from killing me. But why would he want to kill me in the first place?”
+
+Dumbledore sighed very deeply this time.
+
+“Alas, the first thing you ask me, I cannot tell you. Not today. Not now. You will know, one day…put it from your mind for now, Harry. When you are older…I know you hate to hear this…when you are ready, you will know.”
+
+And Harry knew it would be no good to argue.
+
+“But why couldn’t Quirrell touch me?”
+
+“Your mother died to save you. If there is one thing Voldemort cannot understand, it is love. He didn’t realize that love as powerful as your mother’s for you leaves its own mark. Not a scar, no visible sign…to have been loved so deeply, even though the person who loved us is gone, will give us some protection forever. It is in your very skin. Quirrell, full of hatred, greed, and ambition, sharing his soul with Voldemort, could not touch you for this reason. It was agony to touch a person marked by something so good.”
+[harry_potter_p0001-0020.pdf | Page 11] Professor McGonagall shot a sharp look at Dumbledore and said “The owls are nothing next to the rumors that are flying around. You know what they’re saying? About why he’s disappeared? About what finally stopped him?”
+
+It seemed that Professor McGonagall had reached the point she was most anxious to discuss, the real reason she had been waiting on a cold, hard wall all day, for neither as a cat nor as a woman had she fixed Dumbledore with such a piercing stare as she did now. It was plain that whatever “everyone” was saying, she was not going to believe it until Dumbledore told her it was true. Dumbledore, however, was choosing another lemon drop and did not answer.
+
+“What they’re saying,” she pressed on, “is that last night Voldemort turned up in Godric’s Hollow. He went to find the Potters. The rumor is that Lily and James Potter are — are — that they’re — dead.”
+
+Dumbledore bowed his head. Professor McGonagall gasped.
+
+“Lily and James…I can’t believe it…I didn’t want to believe it…Oh,
+
+Albus…”
+
+Dumbledore reached out and patted her on the shoulder. “I know…I know…” he said heavily.
+
+Professor McGonagall’s voice trembled as she went on. “That’s not all. They’re saying he tried to kill the Potter’s son, Harry. But he couldn’t. He couldn’t kill that little boy. No one knows why, or how, but they’re saying that when he couldn’t kill Harry Potter, Voldemort’s power somehow broke — and that’s why he’s gone.”
+[harry_potter_p0041-0060.pdf | Page 42] “Nah — can’t spell it. All right — Voldemort. ” Hagrid shuddered. “Don’ make me say it again. Anyway, this — this wizard, about twenty years ago now, started lookin’ fer followers. Got ‘em, too — some were afraid, some just wanted a bit o’ his power, ‘cause he was gettin’ himself power, all right. Dark days, Harry. Didn’t know who ter trust, didn’t dare get friendly with strange wizards or witches…terrible things happened. He was takin’ over. ‘Course, some stood up to him — an’ he killed ‘em. Horribly. One o’ the only safe places left was Hogwarts. Reckon Dumbledore’s the only one You-Know-Who was afraid of. Didn’t dare try takin’ the school, not jus’ then, anyway.
+
+“Now, yer mum an’ dad were as good a witch an’ wizard as I ever knew. Head boy an’ girl at Hogwarts in their day! Suppose the myst’ry is why You- Know-Who never tried to get ‘em on his side before…probably knew they were too close ter Dumbledore ter want anythin’ ter do with the Dark Side.
+
+“Maybe he thought he could persuade ‘em...maybe he just wanted ‘em outta the way. All anyone knows is, he turned up in the village where you was all living, on Halloween ten years ago. You was just a year old. He came ter yer house an’ — an’ —”
+[harry_potter_p0181-0200.pdf | Page 188] “So all I’ve got to wait for now is Snape to steal the Stone,” Harry went on feverishly, “then Voldemort will be able to come and finish me off ... Well, I suppose Bane’ll be happy.”
+
+Hermione looked very frightened, but she had a word of comfort.
+
+“Harry, everyone says Dumbledore’s the only one You-Know-Who was ever afraid of with Dumbledore around, You-Know-Who won’t touch you. Anyway, who says the centaurs are right? It sounds like fortune-telling to me, and Professor McGonagall says that’s a very imprecise branch of magic.”
+
+The sky had turned light before they stopped talking. They went to bed exhausted, their throats sore. But the night’s surprises weren’t over.
+
+When Harry pulled back his sheets, he found his invisibility cloak folded neatly underneath them. There was a note pinned to it:
+
+Just in case.
+[harry_potter_p0001-0020.pdf | Page 11] “It certainly seems so,” said Dumbledore. “We have much to be thankful for. Would you care for a lemon drop?”
+
+“A what?”
+
+“A lemon drop. They’re a kind of Muggle sweet I’m rather fond of.”
+
+“No, thank you,” said Professor McGonagall coldly, as though she didn’t think this was the moment for lemon drops. “As I say, even if You-Know-Who
+
+has gone —”
+
+“My dear Professor, surely a sensible person like yourself can call him by his name? All this ‘You-Know-Who’ nonsense — for eleven years I have been trying to persuade people to call him by his proper name: Voldemort.” Professor McGonagall flinched, but Dumbledore, who was unsticking two lemon drops, seemed not to notice. “It all gets so confusing if we keep saying ‘You-Know- Who.’ I have never seen any reason to be frightened of saying Voldemort’s name.”
+
+“I know you haven’t, said Professor McGonagall, sounding half exasperated, half admiring. “But you’re different. Everyone knows you’re the only one You-Know- oh, all right, Voldemort, was frightened of.”
+
+“You flatter me,” said Dumbledore calmly. “Voldemort had powers I will never have.”
+
+“Only because you’re too — well — noble to use them.”
+
+“It’s lucky it’s dark. I haven’t blushed so much since Madam Pomfrey told me she liked my new earmuffs.”
+[harry_potter_p0181-0200.pdf | Page 192] “I shouldn’ta told yeh that!” he blurted out. “Forget I said it! Hey — where’re yeh goin’?”
+
+Harry, Ron, and Hermione didn’t speak to each other at all until they came to a halt in the entrance hall, which seemed very cold and gloomy after the grounds.
+
+“We’ve got to go to Dumbledore,” said Harry. “Hagrid told that stranger how to get past Fluffy, and it was either Snape or Voldemort under that cloak — it must’ve been easy, once he’d got Hagrid drunk. I just hope Dumbledore
+
+believes us. Firenze might back us up if Bane doesn’t stop him. Where’s Dumbledore’s office?”
+
+They looked around, as if hoping to see a sign pointing them in the right direction. They had never been told where Dumbledore lived, nor did they know anyone who had been sent to see him.
+
+“We’ll just have to —” Harry began, but a voice suddenly rang across the hall.
+
+“What are you three doing inside?”
+
+It was Professor McGonagall, carrying a large pile of books.
+
+“We want to see Professor Dumbledore,” said Hermione, rather bravely, Harry and Ron thought.
+
+“See Professor Dumbledore?” Professor McGonagall repeated, as though this was a very fishy thing to want to do. “Why?”
+
+Harry swallowed — now what?
+
+“It’s sort of secret,” he said, but he wished at once he hadn’t, because Professor McGonagall’s nostrils flared.
+[harry_potter_p0201-0220.pdf | Page 215] Dumbledore now became very interested in a bird out on the windowsill, which gave Harry time to dry his eyes on the sheet. When he had found his voice again, Harry said, “And the invisibility cloak — do you know who sent it to me?”
+
+“Ah — your father happened to leave it in my possession, and I thought you might like it.” Dumbledore’s eyes twinkled. “Useful things…your father used it mainly for sneaking off to the kitchens to steal food when he was here.”
+
+“And there’s something else…”
+
+“Fire away.”
+
+“Quirrell said Snape —”
+
+“Professor Snape, Harry.”
+
+“Yes, him — Quirrell said he hates me because he hated my father. Is that
+
+true?”
+
+“Well, they did rather detest each other. Not unlike yourself and Mr. Malfoy. And then, your father did something Snape could never forgive.” “What?”
+
+“What?”
+
+“He saved his life.”
+
+“What?”
+
+“Yes…” said Dumbledore dreamily. “Funny, the way people’s minds work, isn’t it? Professor Snape couldn’t bear being in your father’s debt…I do believe he worked so hard to protect you this year because he felt that would make him and your father even. Then he could go back to hating your father’s memory in peace.…”
+
+Harry tried to understand this but it made his head pound, so he stopped. “And sir, there’s one more thing…”
+[harry_potter_p0181-0200.pdf | Page 193] “Professor Dumbledore left ten minutes ago,” she said coldly. “He received an urgent owl from the Ministry of Magic and flew off for London at once.”
+
+“He’s gone?” said Harry frantically. “Now?”
+
+“Professor Dumbledore is a very great wizard, Potter, he has many demands on his time – ”
+
+“But this is important.”
+
+“Something you have to say is more important than the Ministry of
+
+Magic, Potter?”
+
+“Look,” said Harry, throwing caution to the winds, “Professor — it’s about the Sorcerer’s Stone —”
+
+Whatever Professor McGonagall had expected, it wasn’t that. The books she was carrying tumbled out of her arms, but she didn’t pick them up.
+
+“How do you know —?” she spluttered.
+
+“Professor, I think — I know — that Sn— that someone’s going to try and steal the Stone. I’ve got to talk to Professor Dumbledore.”
+
+She eyed him with a mixture of shock and suspicion.
+
+“Professor Dumbledore will be back tomorrow,” she said finally. I don’t know how you found out about the Stone, but rest assured, no one can possibly steal it, it’s too well protected.”
+
+“But Professor —”
+
+“Potter, I know what I’m talking about,” she said shortly. She bent down and gathered up the fallen books. I suggest you all go back outside and enjoy the

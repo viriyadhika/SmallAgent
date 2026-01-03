@@ -1,0 +1,45 @@
+Retrieval 1: 5, Retrieval 2: 3
+Reason: Retrieval 1 directly includes the exact moment Harry learns he is a wizard (Hagrid explicitly telling him), with minimal irrelevant content. Retrieval 2 does contain the correct moment as well, but it is buried within a very long passage full of unrelated scenes, making it less focused and less efficient as a RAG result.
+
+Retrieval 1: 3, Retrieval 2: 5
+Reason: Retrieval 2 more directly answers the question by clearly indicating that Harry went to live with the Dursleys because his parents died and he was taken there on Dumbledore’s orders, establishing them as his only remaining family. Retrieval 1 includes relevant background but is overly long and indirect, with much extraneous detail that does not clearly explain the reason.
+
+Retrieval 1: 3, Retrieval 2: 5
+Reason: Retrieval 2 more clearly and directly shows Hagrid’s role in introducing Harry to the wizarding world—telling him he is a wizard, explaining magic, Hogwarts, and guiding him through key concepts. Retrieval 1 contains some relevant moments but is more fragmented and diluted with unrelated scenes, making Hagrid’s introductory role less clear.
+
+Retrieval 1: 1, Retrieval 2: 4
+Reason: Retrieval 2 contains the relevant context showing that Harry first gets to Diagon Alley by being taken there by Hagrid through the Leaky Cauldron and the hidden brick entrance. Retrieval 1 is largely about King’s Cross and Platform Nine and Three-Quarters, which is unrelated to how Harry reaches Diagon Alley, making it mostly irrelevant to the question.
+
+Retrieval 1: 2, Retrieval 2: 4
+Reason: Retrieval 2 more clearly supports the correct answer by including Harry’s purchase of his wand, an item he buys that later becomes crucial throughout the story. Retrieval 1 is cluttered with irrelevant material and highlights the Invisibility Cloak, which is important but not something Harry buys, making it less accurate for the question.
+
+Retrieval 1: 2, Retrieval 2: 5
+Reason: Retrieval 2 directly includes the key passage where the Sorting Hat explains why it considers Slytherin for Harry—his ambition, talent, thirst to prove himself, and potential for greatness. Retrieval 1 mostly provides surrounding ceremony context and house descriptions but does not clearly explain the Sorting Hat’s reasoning for considering Slytherin, making it far less informative for this question.
+
+Retrieval 1: 5, Retrieval 2: 3
+Reason: Retrieval 1 directly includes the crucial Sorting Hat dialogue where it identifies Harry’s defining qualities—plenty of courage, nerve, talent, and his conscious choice to reject Slytherin—which together lead to Gryffindor. It clearly supports the question. Retrieval 2 provides mostly surrounding ceremony context and repetition, but lacks the focused explanation of which qualities ultimately determined the decision, making it less precise.
+
+Retrieval 1: 2, Retrieval 2: 5
+Reason: Retrieval 2 directly contains the key passage explaining how Harry, Ron, and Hermione become friends—by working together during the troll incident and saving Hermione, explicitly stating that shared danger forged their friendship. Retrieval 1 mostly shows later interactions and background scenes but does not clearly explain the origin of their friendship, making it much less relevant to the question.
+
+Retrieval 1: 2, Retrieval 2: 5
+Reason: Retrieval 2 clearly includes the key detail that makes Harry’s first Quidditch match unusual—his extraordinary natural talent, demonstrated by catching the Snitch after a dramatic fifty-foot dive without injury, something even Charlie Weasley couldn’t do. Retrieval 1 contains mostly background buildup and unrelated scenes but does not clearly present the unusual ability shown during the match itself, making it much less helpful for answering the question.
+
+Retrieval 1: 2, Retrieval 2: 3
+Reason: Both retrievals show that Snape is hostile to Harry from the start (mocking him as a “celebrity” and treating him unfairly), but neither clearly explains the underlying reason for this dislike—Snape’s resentment toward Harry’s father, James Potter. Retrieval 2 is slightly better because it stays more focused on Snape’s initial behavior toward Harry, while Retrieval 1 includes a large amount of later, irrelevant material that does not help answer why the dislike exists.
+
+Retrieval 1: 2, Retrieval 2: 5
+Reason: Retrieval 2 clearly explains the significance of the three-headed dog: it is guarding the trapdoor that protects something extremely valuable, later revealed as part of the defenses around the Sorcerer’s Stone. It explicitly connects the dog’s presence to guarding a hidden object and fits the question directly. Retrieval 1 contains a brief description of encountering the dog but is cluttered with largely unrelated material and does not clearly explain why the dog is important or what it signifies.
+
+Retrieval 1: 4, Retrieval 2: 5
+Reason: Both retrievals explain that the Philosopher’s Stone must be protected because it can create gold and the Elixir of Life, and because Voldemort seeks it to regain power and immortality. However, Retrieval 2 is stronger because it explicitly states the core motivation—preventing Voldemort’s return and protecting the wizarding world—using clear dialogue where Harry spells out the stakes. Retrieval 1 contains relevant information but is more diffuse and indirect, requiring the reader to infer the central reason rather than stating it plainly.
+
+Retrieval 1: 1, Retrieval 2: 5
+Reason: Retrieval 2 directly and clearly describes the specific challenges beneath the trapdoor—Devil’s Snare, flying keys, the life-sized wizard chess game, a troll, and the logic puzzle with potions—explicitly answering the question. Retrieval 1 is largely unrelated background material (library discussions, Quidditch, Hagrid, and the dragon) and provides almost no information about what the trio actually face beneath the trapdoor, making it a poor match.
+
+Retrieval 1: 5, Retrieval 2: 4
+Reason: Retrieval 1 is tightly focused on the wizard’s chess scene and directly answers the question: Ron sacrifices himself because it is the only strategic move that allows Harry to reach checkmate and continue toward stopping Snape/Voldemort. Retrieval 2 contains the same crucial passage, but it is buried within a very long set of largely irrelevant excerpts (Quidditch, Potions, duels), making it less efficient and less clean as a RAG result.
+
+Retrieval 1: 5, Retrieval 2: 4
+Reason: Retrieval 1 is more focused and directly answers the question by clearly showing that Hermione solves the potion riddle using logic, identifies which bottles are safe, and tells Harry which one to drink so he can proceed. Retrieval 2 contains the same crucial information, but it is buried within a very long collection of unrelated scenes (Potions class, Quidditch, troll, friendship moments), which makes it less precise and less efficient as a RAG result.
+

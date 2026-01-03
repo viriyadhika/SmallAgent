@@ -1,0 +1,266 @@
+You are an LLM as a judge. You are supposed to judge between the 2 RAG result below. Can you tell me which one is better? Give a score for each 1 to 5 for each retrieval with 5 being good in the format of Retrieval 1: <score>, Retrieval 2: <score> and a short reason why. 
+ Retrieval 1
+Question: Why are the characters trying to protect the Philosopher's Stone? 
+[harry_potter_p0201-0220.pdf | Page 213] “They have enough Elixir stored to set their affairs in order and then, yes,
+
+they will die.”
+
+Dumbledore smiled at the look of amazement on Harry’s face.
+
+“To one as young as you, I’m sure it seems incredible, but to Nicolas and Perenelle, it really is like going to bed after a very, very long day. After all, to the well-organized mind, death is but the next great adventure. You know, the Stone was really not such a wonderful thing. As much money and life as you could want! The two things most human beings would choose above all — the trouble is, humans do have a knack of choosing precisely those things that are worst for them.”
+
+Harry lay there, lost for words. Dumbledore hummed a little and smiled at the ceiling.
+
+“Sir?” said Harry. “I’ve been thinking…sir — even if the Stone’s gone, Vol-, I mean, You-Know-Who —”
+
+“Call him Voldemort, Harry. Always use the proper name for things. Fear of a name increases fear of the thing itself.”
+
+“Yes, sir. Well, Voldemort’s going to try other ways of coming back, isn’t he? I mean, he hasn’t gone, has he?”
+
+“No, Harry, he has not. He is still out there somewhere, perhaps looking for another body to share…not being truly alive, he cannot be killed. He left Quirrell to die; he shows just as little mercy to his followers as his enemies. Nevertheless, Harry, while you may only have delayed his return to power, it will merely take someone else who is prepared to fight what seems a losing battle next time — and if he is delayed again, and again, why, he may never return to power.”
+[harry_potter_p0181-0200.pdf | Page 185] “My name is Firenze,” he added, as he lowered himself on to his front legs so that Harry could clamber onto his back.
+
+There was suddenly a sound of more galloping from the other side of the clearing. Ronan and Bane came bursting through the trees, their flanks heaving and sweaty.
+
+“Firenze!” Bane thundered. “What are you doing? You have a human on your back! Have you no shame? Are you a common mule?”
+
+“Do you realize who this is?” said Firenze. “This is the Potter boy. The quicker he leaves this forest, the better.”
+
+“What have you been telling him?” growled Bane. “Remember, Firenze, we are sworn not to set ourselves against the heavens. Have we not read what is
+
+to come in the movements of the planets?”
+
+Ronan pawed the ground nervously. “I’m sure Firenze thought he was acting for the best, “ he said in his gloomy voice.
+
+Bane kicked his back legs in anger.
+
+“For the best! What is that to do with us? Centaurs are concerned with what has been foretold! It is not our business to run around like donkeys after stray humans in our forest!”
+
+Firenze suddenly reared on to his hind legs in anger, so that Harry had to grab his shoulders to stay on.
+
+“Do you not see that unicorn?” Firenze bellowed at Bane. “Do you not understand why it was killed? Or have the planets not let you in on that secret? I set myself against what is lurking in this forest, Bane, yes, with humans alongside me if I must.”
+[harry_potter_p0181-0200.pdf | Page 186] Harry stared at the back of Firenze’s head, which was dappled silver in the moonlight.
+
+“But who’d be that desperate?” he wondered aloud. “If you’re going to be cursed forever, death’s better, isn’t it?”
+
+“It is,” Firenze agreed, “unless all you need is to stay alive long enough to drink something else — something that will bring you back to full strength and power — something that will mean you can never die. Mr. Potter, do you
+
+know what is hidden in the school at this very moment?”
+
+“The Sorcerer’s Stone! Of course — the Elixir of Life! But I don’t understand who —”
+
+“Can you think of nobody who has waited many years to return to power, who has clung to life, awaiting their chance?”
+
+It was as though an iron fist had clenched suddenly around Harry’s heart. Over the rustling of the trees, he seemed to hear once more what Hagrid had told him on the night they had met: “Some say he died. Codswallop, in my opinion. Dunno if he had enough human left in him to die.”
+
+“Do you mean,” Harry croaked, “that was Vol-”
+
+“Harry! Harry, are you all right?”
+
+Hermione was running toward them down the path, Hagrid puffing along behind her.
+
+“I’m fine,” said Harry, hardly knowing what he was saying. “The unicorn’s dead, Hagrid, it’s in that clearing back there.”
+[harry_potter_p0141-0160.pdf | Page 158] “I knew it! I knew it!”
+
+“Are we allowed to speak yet?” said Ron grumpily. Hermione ignored
+
+him.
+
+“Nicolas Flamel,” she whispered dramatically, “is the only known maker of the Sorcerer’s Stone!”
+
+This didn’t have quite the effect she’d expected.
+
+“The what?” said Harry and Ron.
+
+“Oh, honestly, don’t you two read? Look – read that, there.”
+
+She pushed the book toward them, and Harry and Ron read:
+
+The ancient study of alchemy is concerned with making the Sorcerer’s Stone,
+
+a legendary substance with astonishing powers. The stone will transform any metal into pure gold. It also produces the Elixir of Life, which will make the drinker immortal.
+
+There have been many reports of the Sorcerer’s Stone over the centuries, but the only Stone currently in existence belongs to Mr. Nicolas Flamel, the noted alchemist and opera lover. Mr. Flamel, who celebrated his six hundred and sixty- fifth birthday last year, enjoys a quiet life in Devon with his wife, Perenelle (six hundred and fifty-eight).
+
+“See?” said Hermione, when Harry and Ron had finished. “The dog must be guarding Flamel’s Sorcerer’s Stone! I bet he asked Dumbledore to keep it safe for him, because they’re friends and he knew someone was after it, that’s why he wanted the Stone moved out of Gringotts!”
+[harry_potter_p0161-0180.pdf | Page 178] All the same, he’d have gambled twelve Sorcerer’s Stones that Snape had just left the room, and from what Harry had just heard, Snape would be walking with a new spring in his step — Quirrell seemed to have given in at last.
+
+Harry went back to the library, where Hermione was testing Ron on
+
+Astronomy. Harry told them what he’d heard.
+
+“Snape’s done it, then!” said Ron. “If Quirrell’s told him how to break his Anti-Dark Force spell —”
+
+“There’s still Fluffy, though,” said Hermione.
+
+“Maybe Snape’s found out how to get past him without asking Hagrid,” said Ron, looking up at the thousands of books surrounding them. “I bet there’s a book somewhere in here telling you how to get past a giant three-headed dog. So what do we do, Harry?”
+
+The light of adventure was kindling again in Ron’s eyes, but Hermione answered before Harry could.
+
+“Go to Dumbledore. That’s what we should have done ages ago. If we try anything ourselves we’ll be thrown out for sure.”
+
+“But we’ve got no proof!” said Harry. “Quirrell’s too scared to back us up. Snape’s only got to say he doesn’t know how the troll got in at Halloween and that he was nowhere near the third floor — who do you think they’ll believe, him or us? It’s not exactly a secret we hate him, Dumbledore’ll think we made it up to get him sacked. Filch wouldn’t help us if his life depended on it, he’s too friendly with Snape, and the more students get thrown out, the better, he’ll think. And don’t forget, we’re not supposed to know about the Stone or Fluffy. That’ll take a lot of explaining.”
+ Retrieval 2
+Question: Why are the characters trying to protect the Philosopher's Stone? 
+[harry_potter_p0141-0160.pdf | Page 158] “I knew it! I knew it!”
+
+“Are we allowed to speak yet?” said Ron grumpily. Hermione ignored
+
+him.
+
+“Nicolas Flamel,” she whispered dramatically, “is the only known maker of the Sorcerer’s Stone!”
+
+This didn’t have quite the effect she’d expected.
+
+“The what?” said Harry and Ron.
+
+“Oh, honestly, don’t you two read? Look – read that, there.”
+
+She pushed the book toward them, and Harry and Ron read:
+
+The ancient study of alchemy is concerned with making the Sorcerer’s Stone,
+
+a legendary substance with astonishing powers. The stone will transform any metal into pure gold. It also produces the Elixir of Life, which will make the drinker immortal.
+
+There have been many reports of the Sorcerer’s Stone over the centuries, but the only Stone currently in existence belongs to Mr. Nicolas Flamel, the noted alchemist and opera lover. Mr. Flamel, who celebrated his six hundred and sixty- fifth birthday last year, enjoys a quiet life in Devon with his wife, Perenelle (six hundred and fifty-eight).
+
+“See?” said Hermione, when Harry and Ron had finished. “The dog must be guarding Flamel’s Sorcerer’s Stone! I bet he asked Dumbledore to keep it safe for him, because they’re friends and he knew someone was after it, that’s why he wanted the Stone moved out of Gringotts!”
+[harry_potter_p0141-0160.pdf | Page 159] “A stone that makes gold and stops you from ever dying!” said Harry. “No wonder Snape’s after it! Anyone would want it.”
+
+“And no wonder we couldn’t find Flamel in that Study of Recent Developments in Wizardry,” said Ron. “He’s not exactly recent if he’s six hundred and sixty-five, is he?”
+
+The next morning in Defense Against the Dark Arts, while copying down different ways of treating werewolf bites, Harry and Ron were still discussing what they’d do with a Sorcerer’s Stone if they had one. It wasn’t until Ron said he’d buy his own Quidditch team that Harry remembered about Snape and the coming match.
+
+“I’m going to play,” he told Ron and Hermione. “If I don’t, all the Slytherins will think I’m just too scared to face Snape. I’ll show them…it’ll really wipe the smiles off their faces if we win.”
+
+“Just as long as we’re not wiping you off the field,” said Hermione.
+
+As the match drew nearer, however, Harry became more and more nervous, whatever he told Ron and Hermione. The rest of the team wasn’t too calm, either. The idea of overtaking Slytherin in the house championship was wonderful, no one had done it for seven years, but would they be allowed to, with such a biased referee?
+
+Harry didn’t know whether he was imagining it or not, but he seemed to keep running into Snape wherever he went. At times, he even wondered whether Snape was following him, trying to catch him on his own. Potions lessons were turning into a sort of weekly torture, Snape was so horrible to Harry. Could Snape possibly know they’d found out about the Sorcerer’s Stone? Harry didn’t
+[harry_potter_p0081-0100.pdf | Page 95] HP 1 - Harry Potter and the Sorcerer's Stone
+
+CHAPTER EIGHT
+
+THE POTIONS MASTER
+
+T here, look.”
+
+“Where?” “Next to the tall kid with the red hair.” “Wearing the glasses?” “Did you see his face?” “Did you see his scar?”
+
+“Where?”
+
+“Did you see his face?”
+
+“Did you see his scar?”
+
+Whispers followed Harry from the moment he left his dormitory the next day. People lining up outside classrooms stood on tiptoe to get a look at him, or doubled back to pass him in the corridors again, staring. Harry wished they wouldn’t, because he was trying to concentrate on finding his way to classes.
+
+There were a hundred and forty-two staircases at Hogwarts: wide, sweeping ones; narrow, rickety ones; some that led somewhere different on a Friday; some with a vanishing step halfway up that you had to remember to jump. Then there were doors that wouldn’t open unless you asked politely, or tickled them in exactly the right place, and doors that weren’t really doors at all, but solid walls just pretending. It was also very hard to remember where anything was, because it all seemed to move around a lot. The people in the portraits kept going to visit each other, and Harry was sure the coats of armor could walk.
+
+The ghosts didn’t help, either. It was always a nasty shock when one of them glided suddenly through a door you were trying to open. Nearly Headless Nick was always happy to point new Gryffindors in the right direction, but Peeves the Poltergeist was worth two locked doors and a trick staircase if you met him when you were late for class. He would drop wastepaper baskets on your head, pull rugs from under your feet, pelt you with bits of chalk, or sneak up behind you, invisible, grab your nose, and screech, “GOT YOUR CONK!”
+[harry_potter_p0181-0200.pdf | Page 195] The other two stared at him. He was pale and his eyes were glittering.
+
+“I’m going out of here tonight and I’m going to try and get to the Stone
+
+first.”
+
+“You’re mad!” said Ron.
+
+“You can’t!” said Hermione. “After what McGonagall and Snape have said? You’ll be expelled!”
+
+“SO WHAT” Harry shouted. “Don’t you understand? If Snape gets hold of the Stone, Voldemort’s coming back! Haven’t you heard what it was like when he was trying to take over? There won’t be any Hogwarts to get expelled from! He’ll flatten it, or turn it into a school for the Dark Arts! Losing points doesn’t matter anymore, can’t you see? D’you think he’ll leave you and your families alone if Gryffindor wins the house cup? If I get caught before I can get to the Stone, well, I’ll have to go back to the Dursleys and wait for Voldemort to find me there, it’s only dying a bit later than I would have, because I’m never going over to the Dark Side! I’m going through that trapdoor tonight and nothing you two say is going to stop me! Voldemort killed my parents, remember?”
+
+He glared at them.
+
+“You’re right Harry,” said Hermione in a small voice.
+
+“I’ll use the invisibility cloak,” said Harry. “It’s just lucky I got it back.” “But will it cover all three of us?” said Ron.
+[harry_potter_p0201-0220.pdf | Page 215] “Just the one?”
+
+“How did I get the Stone out of the mirror?”
+
+“Ah, now, I’m glad you asked me that. It was one of my more brilliant ideas, and between you and me, that’s saying something. You see, only one who wanted to find the Stone — find it, but not use it — would be able to get it, otherwise they’d just see themselves making gold or drinking Elixir of Life. My
+
+brain surprises even me sometimes…Now, enough questions. I suggest you make a start on these sweets. Ah! Bettie Bott’s Every Flavor Beans! I was unfortunate enough in my youth to come across a vomit flavored one, and since then I’m afraid I’ve rather lost my liking for them — but I think I’ll be safe with a nice toffee, don’t you?”
+
+He smiled and popped the golden-brown bean into his mouth. Then he choked and said, “Alas! Ear wax!”
+
+Madam Pomfrey, the nurse, was a nice woman, but very strict.
+
+“Just five minutes,” Harry pleaded.
+
+“Absolutely not.”
+
+“You let Professor Dumbledore in….”
+
+“Well, of course, that was the headmaster, quite different. You need rest.”
+
+“I am resting, look, lying down and everything. Oh, go on, Madam
+
+Pomfrey…”
+
+“Oh, very well,” she said. “But five minutes only.”
+
+And she let Ron and Hermione in.
+[harry_potter_p0161-0180.pdf | Page 178] All the same, he’d have gambled twelve Sorcerer’s Stones that Snape had just left the room, and from what Harry had just heard, Snape would be walking with a new spring in his step — Quirrell seemed to have given in at last.
+
+Harry went back to the library, where Hermione was testing Ron on
+
+Astronomy. Harry told them what he’d heard.
+
+“Snape’s done it, then!” said Ron. “If Quirrell’s told him how to break his Anti-Dark Force spell —”
+
+“There’s still Fluffy, though,” said Hermione.
+
+“Maybe Snape’s found out how to get past him without asking Hagrid,” said Ron, looking up at the thousands of books surrounding them. “I bet there’s a book somewhere in here telling you how to get past a giant three-headed dog. So what do we do, Harry?”
+
+The light of adventure was kindling again in Ron’s eyes, but Hermione answered before Harry could.
+
+“Go to Dumbledore. That’s what we should have done ages ago. If we try anything ourselves we’ll be thrown out for sure.”
+
+“But we’ve got no proof!” said Harry. “Quirrell’s too scared to back us up. Snape’s only got to say he doesn’t know how the troll got in at Halloween and that he was nowhere near the third floor — who do you think they’ll believe, him or us? It’s not exactly a secret we hate him, Dumbledore’ll think we made it up to get him sacked. Filch wouldn’t help us if his life depended on it, he’s too friendly with Snape, and the more students get thrown out, the better, he’ll think. And don’t forget, we’re not supposed to know about the Stone or Fluffy. That’ll take a lot of explaining.”
+[harry_potter_p0201-0220.pdf | Page 213] “They have enough Elixir stored to set their affairs in order and then, yes,
+
+they will die.”
+
+Dumbledore smiled at the look of amazement on Harry’s face.
+
+“To one as young as you, I’m sure it seems incredible, but to Nicolas and Perenelle, it really is like going to bed after a very, very long day. After all, to the well-organized mind, death is but the next great adventure. You know, the Stone was really not such a wonderful thing. As much money and life as you could want! The two things most human beings would choose above all — the trouble is, humans do have a knack of choosing precisely those things that are worst for them.”
+
+Harry lay there, lost for words. Dumbledore hummed a little and smiled at the ceiling.
+
+“Sir?” said Harry. “I’ve been thinking…sir — even if the Stone’s gone, Vol-, I mean, You-Know-Who —”
+
+“Call him Voldemort, Harry. Always use the proper name for things. Fear of a name increases fear of the thing itself.”
+
+“Yes, sir. Well, Voldemort’s going to try other ways of coming back, isn’t he? I mean, he hasn’t gone, has he?”
+
+“No, Harry, he has not. He is still out there somewhere, perhaps looking for another body to share…not being truly alive, he cannot be killed. He left Quirrell to die; he shows just as little mercy to his followers as his enemies. Nevertheless, Harry, while you may only have delayed his return to power, it will merely take someone else who is prepared to fight what seems a losing battle next time — and if he is delayed again, and again, why, he may never return to power.”
+[harry_potter_p0081-0100.pdf | Page 100] “Tut, tut — fame clearly isn’t everything.”
+
+He ignored Hermione’s hand.
+
+“Let’s try again. Potter, where would you look if I told you to find me a
+
+bezoar?”
+
+Hermione stretched her hand as high into the air as it would go without her leaving her seat, but Harry didn’t have the faintest idea what a bezoar was. He tried not to look at Malfoy, Crabbe, and Goyle, who were shaking with laughter.
+
+“I don’t know, sir.”
+
+“Thought you wouldn’t open a book before coming, eh, Potter?” Harry forced himself to keep looking straight into those cold eyes. He had looked through his books at the Dursleys’, but did Snape expect him to remember everything in One Thousand Magical Herbs and Fungi?
+
+Snape was still ignoring Hermione’s quivering hand.
+
+“What is the difference, Potter, between monkshood and wolfsbane?”
+
+At this, Hermione stood up, her hand stretching toward the dungeon
+
+ceiling.
+
+“I don’t know,” said Harry quietly. “I think Hermione does, though, why don’t you try her?”
+
+A few people laughed; Harry caught Seamus’s eye, and Seamus winked. Snape, however, was not pleased.
+
+“Sit down,” he snapped at Hermione. “For your information, Potter, asphodel and wormwood make a sleeping potion so powerful it is known as the Draught of Living Death. A bezoar is a stone taken from the stomach of a goat and it will save you from most poisons. As for monkshood and wolfsbane, they are the same plant, which also goes by the name of aconite. Well? Why aren’t you all copying that down?”

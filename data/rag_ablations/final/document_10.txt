@@ -1,0 +1,220 @@
+You are an LLM as a judge. You are supposed to judge between the 2 RAG result below. Can you tell me which one is better? Give a score for each 1 to 5 for each retrieval with 5 being good in the format of Retrieval 1: <score>, Retrieval 2: <score> and a short reason why. 
+ Retrieval 1
+Question: What is the significance of the three-headed dog guarding the trapdoor? 
+[harry_potter_p0061-0080.pdf | Page 61] toads went outta fashion years ago, yeh’d be laughed at — an’ I don’ like cats, they make me sneeze. I’ll get yer an owl. All the kids want owls, they’re dead useful, carry yer mail an’ everythin’.”
+
+Twenty minutes later, they left Eeylops Owl Emporium, which had been dark and full of rustling and flickering, jewel-bright eyes. Harry now carried a large cage that held a beautiful snowy owl, fast asleep with her head under her wing. He couldn’t stop stammering his thanks, sounding just like Professor Quirrell.
+
+“Don’ mention it,” said Hagrid gruffly. “Don’ expect you’ve had a lotta presents from them Dursleys. Just Ollivanders left now — only place fer wands, Ollivanders, and yeh gotta have the best wand.”
+
+A magic wand…this was what Harry had been really looking forward to.
+
+The last shop was narrow and shabby. Peeling gold letters over the door read Ollivanders: Makers of Fine Wands since 382 B.C. A single wand lay on a faded purple cushion in the dusty window.
+
+A tinkling bell rang somewhere in the depths of the shop as they stepped inside. It was a tiny place, empty except for a single, spindly chair that Hagrid sat on to wait. Harry felt strangely as though he had entered a very strict library; he swallowed a lot of new questions that had just occurred to him and looked instead at the thousands of narrow boxes piled neatly right up to the ceiling. For some reason, the back of his neck prickled. The very dust and silence in here seemed to tingle with some secret magic.
+[harry_potter_p0181-0200.pdf | Page 185] “My name is Firenze,” he added, as he lowered himself on to his front legs so that Harry could clamber onto his back.
+
+There was suddenly a sound of more galloping from the other side of the clearing. Ronan and Bane came bursting through the trees, their flanks heaving and sweaty.
+
+“Firenze!” Bane thundered. “What are you doing? You have a human on your back! Have you no shame? Are you a common mule?”
+
+“Do you realize who this is?” said Firenze. “This is the Potter boy. The quicker he leaves this forest, the better.”
+
+“What have you been telling him?” growled Bane. “Remember, Firenze, we are sworn not to set ourselves against the heavens. Have we not read what is
+
+to come in the movements of the planets?”
+
+Ronan pawed the ground nervously. “I’m sure Firenze thought he was acting for the best, “ he said in his gloomy voice.
+
+Bane kicked his back legs in anger.
+
+“For the best! What is that to do with us? Centaurs are concerned with what has been foretold! It is not our business to run around like donkeys after stray humans in our forest!”
+
+Firenze suddenly reared on to his hind legs in anger, so that Harry had to grab his shoulders to stay on.
+
+“Do you not see that unicorn?” Firenze bellowed at Bane. “Do you not understand why it was killed? Or have the planets not let you in on that secret? I set myself against what is lurking in this forest, Bane, yes, with humans alongside me if I must.”
+[harry_potter_p0101-0120.pdf | Page 116] Harry turned around — and saw, quite clearly, what. For a moment, he was sure he’d walked into a nightmare — this was too much, on top of everything that had happened so far.
+
+They weren’t in a room, as he had supposed. They were in a corridor. The forbidden corridor on the third floor. And now they knew why it was forbidden.
+
+They were looking straight into the eyes of a monstrous dog, a dog that filled the whole space between ceiling and floor. It had three heads. Three pairs of rolling, mad eyes; three noses, twitching and quivering in their direction; three drooling mouths, saliva hanging in slippery ropes from yellowish fangs.
+
+It was standing quite still, all six eyes staring at them, and Harry knew that the only reason they weren’t already dead was that their sudden appearance had taken it by surprise, but it was quickly getting over that, there was no mistaking what those thunderous growls meant.
+
+Harry groped for the doorknob — between Filch and death, he’d take Filch.
+
+They fell backward — Harry slammed the door shut, and they ran, they almost flew, back down the corridor. Filch must have hurried off to look for them somewhere else, because they didn’t see him anywhere, but they hardly cared — all they wanted to do was put as much space as possible between them and that monster. They didn’t stop running until they reached the portrait of the Fat Lady on the seventh floor.
+[harry_potter_p0041-0060.pdf | Page 54] The brick he had touched quivered — it wriggled — in the middle, a small hole appeared — it grew wider and wider — a second later they were facing an archway large enough even for Hagrid, an archway onto a cobbled street that twisted and turned out of sight.
+
+“Welcome,” said Hagrid, “to Diagon Alley.”
+
+He grinned at Harry’s amazement. They stepped through the archway. Harry looked quickly over his shoulder and saw the archway shrink instantly back into solid wall.
+
+The sun shone brightly on a stack of cauldrons outside the nearest shop. Cauldrons — All Sizes — Copper, Brass, Pewter, Silver — Self-Stirring — Collapsible, said a sign hanging over them.
+
+“Yeah, you’ll be needin’ one,” said Hagrid, “but we gotta get yer money first.”
+
+Harry wished he had about eight more eyes. He turned his head in every direction as they walked up the street, trying to look at everything at once: the shops, the things outside them, the people doing their shopping. A plump woman outside an Apothecary was shaking her head as they passed, saying, “Dragon liver, seventeen Sickles an ounce, they’re mad.…”
+
+A low, soft hooting came from a dark shop with a sign saying Eeylops Owl Emporium — Tawny, Screech, Barn, Brown, and Snowy. Several boys of about Harry’s age had their noses pressed against a window with broomsticks in it. “Look,” Harry heard one of them say, “the new Nimbus Two Thousand —
+[harry_potter_p0201-0220.pdf | Page 204] “Snape’s,” said Harry. “What do we have to do?”
+
+They stepped over the threshold, and immediately a fire sprang up behind them in the doorway. It wasn’t ordinary fire either; it was purple. At the same instant, black flames shot up in the doorway leading onward. They were trapped.
+
+“Look!” Hermione seized a roll of paper lying next to the bottles. Harry looked over her shoulder to read it:
+
+Danger lies before you, while safety lies behind, Two of us will help you, which ever you would find, One among us seven will let you move ahead, Another will transport the drinker back instead, Two among our number hold only nettle wine, Three of us are killers, waiting bidden in line. Choose, unless you wish to stay here forevermore, To help you in your choice, we give you these clues four: First, however slyly the poison tries to hide You will always find some on nettle wine’s left side; Second, different are those who stand at either end, But if you would move onward, neither is your friend;
+
+Third, as you see clearly, all are different size, Neither dwarf nor giant holds death in their insides; Fourth, the second left and the second on the right Are twins once you taste them, though different at first sight.
+ Retrieval 2
+Question: What is the significance of the three-headed dog guarding the trapdoor? 
+[harry_potter_p0181-0200.pdf | Page 198] “Keep playing,” Ron warned Harry as they slipped out of the cloak and crept toward the trapdoor. They could feel the dog’s hot, smelly breath as they approached the giant heads. “I think we’ll be able to pull the door open,” said Ron, peering over the dog’s back. “Want to go first, Hermione?”
+
+“No, I don’t!”
+
+“All right.” Ron gritted his teeth and stepped carefully over the dog’s legs. He bent and pulled the ring of the trapdoor, which swung up and open. “What can you see?” Hermione said anxiously.
+
+“Nothing — just black — there’s no way of climbing down, we’ll just
+
+have to drop.”
+
+Harry, who was still playing the flute, waved at Ron to get his attention and pointed at himself.
+
+“You want to go first? Are you sure?” said Ron. “I don’t know how deep this thing goes. Give the flute to Hermione so she can keep him asleep.”
+
+Harry handed the flute over. In the few seconds’ silence, the dog growled and twitched, but the moment Hermione began to play, it fell back into its deep sleep.
+
+Harry climbed over it and looked down through the trapdoor. There was no sign of the bottom.
+
+He lowered himself through the hole until he was hanging on by his fingertips. Then he looked up at Ron and said, “If anything happens to me, don’t follow. Go straight to the owlery and send Hedwig to Dumbledore, right?”
+[harry_potter_p0101-0120.pdf | Page 116] “Where on earth have you all been?” she asked, looking at their bathrobes hanging off their shoulders and their flushed, sweaty faces.
+
+“Never mind that — pig snout, pig snout,” panted Harry, and the portrait swung forward. They scrambled into the common room and collapsed, trembling, into armchairs.
+
+It was a while before any of them said anything. Neville, indeed, looked as if he’d never speak again.
+
+“What do they think they’re doing, keeping a thing like that locked up in
+
+a school?” said Ron finally. “If any dog needs exercise, that one does.”
+
+Hermione had got both her breath and her bad temper back again. “You don’t use your eyes, any of you, do you?” she snapped. “Didn’t you see what it was standing on.
+
+“The floor?” Harry suggested. “I wasn’t looking at its feet, I was too busy with its heads.”
+
+“No, not the floor. It was standing on a trapdoor. It’s obviously guarding something.”
+
+She stood up, glaring at them.
+
+“I hope you’re pleased with yourselves. We could all have been killed — or worse, expelled. Now, if you don’t mind, I’m going to bed.”
+
+Ron stared after her, his mouth open.
+
+“No, we don’t mind,” he said. “You’d think we dragged her along, wouldn’t you.
+
+But Hermione had given Harry something else to think about as he climbed back into bed. The dog was guarding something…What had Hagrid said? Gringotts was the safest place in the world for something you wanted to hide — except perhaps Hogwarts.
+[harry_potter_p0101-0120.pdf | Page 116] Harry turned around — and saw, quite clearly, what. For a moment, he was sure he’d walked into a nightmare — this was too much, on top of everything that had happened so far.
+
+They weren’t in a room, as he had supposed. They were in a corridor. The forbidden corridor on the third floor. And now they knew why it was forbidden.
+
+They were looking straight into the eyes of a monstrous dog, a dog that filled the whole space between ceiling and floor. It had three heads. Three pairs of rolling, mad eyes; three noses, twitching and quivering in their direction; three drooling mouths, saliva hanging in slippery ropes from yellowish fangs.
+
+It was standing quite still, all six eyes staring at them, and Harry knew that the only reason they weren’t already dead was that their sudden appearance had taken it by surprise, but it was quickly getting over that, there was no mistaking what those thunderous growls meant.
+
+Harry groped for the doorknob — between Filch and death, he’d take Filch.
+
+They fell backward — Harry slammed the door shut, and they ran, they almost flew, back down the corridor. Filch must have hurried off to look for them somewhere else, because they didn’t see him anywhere, but they hardly cared — all they wanted to do was put as much space as possible between them and that monster. They didn’t stop running until they reached the portrait of the Fat Lady on the seventh floor.
+[harry_potter_p0041-0060.pdf | Page 56] “Very well,” he said, handing it back to Hagrid, “I will have someone take you down to both vaults. Griphook!”
+
+Griphook was yet another goblin. Once Hagrid had crammed all the dog biscuits back inside his pockets, he and Harry followed Griphook toward one of the doors leading off the hall.
+
+“What’s the You-Know-What in vault seven hundred and thirteen?” Harry asked.
+
+“Can’t tell yeh that,” said Hagrid mysteriously. “Very secret. Hogwarts business. Dumbledore’s trusted me. More’n my job’s worth ter tell yeh that.”
+
+Griphook held the door open for them. Harry, who had expected more marble, was surprised. They were in a narrow stone passageway lit with flaming torches. It sloped steeply downward and there were little railway tracks on the floor. Griphook whistled and a small cart came hurtling up the tracks toward them. They climbed in — Hagrid with some difficulty — and were off.
+
+At first they just hurtled through a maze of twisting passages. Harry tried to remember, left, right, right, left, middle fork, right, left, but it was impossible. The rattling cart seemed to know its own way, because Griphook wasn’t steering.
+
+Harry’s eyes stung as the cold air rushed past them, but he kept them wide open. Once, he thought he saw a burst of fire at the end of a passage and twisted around to see if it was a dragon, but too late — they plunged even deeper, passing an underground lake where huge stalactites and stalagmites grew from the ceiling and floor.
+[harry_potter_p0181-0200.pdf | Page 198] “I will, sir, I most certainly will,” said Peeves, rising up in the air again. “Hope your business goes well, Baron, I’ll not bother you.”
+
+And he scooted off.
+
+“Brilliant, Harry!” whispered Ron.
+
+A few seconds later, they were there, outside the third-floor corridor — and the door was already ajar.
+
+“Well, there you are,” Harry said quietly, “Snape’s already got past Fluffy.”
+
+Seeing the open door somehow seemed to impress upon all three of them what was facing them. Underneath the cloak, Harry turned to the other two.
+
+“If you want to go back, I won’t blame you,” he said. “You can take the cloak, I won’t need it now.”
+
+“Don’t be stupid,” said Ron.
+
+“We’re coming,” said Hermione.
+
+Harry pushed the door open.
+
+As the door creaked, low, rumbling growls met their ears. All three of the dog’s noses sniffed madly in their direction, even though it couldn’t see them. “What’s that at its feet?” Hermione whispered.
+
+“Looks like a harp,” said Ron. “Snape must have left it there.”
+
+“It must wake up the moment you stop playing,” said Harry. “Well, here
+
+goes ….”
+
+He put Hagrid’s flute to his lips and blew. It wasn’t really a tune, but from the first note the beast’s eyes began to droop. Harry hardly drew breath. Slowly, the dog’s growls ceased — it tottered on its paws and fell to its knees, then it slumped to the ground, fast asleep.
+[harry_potter_p0181-0200.pdf | Page 200] “Lucky you pay attention in Herbology, Hermione,” said Harry as he joined her by the wall, wiping sweat off his face.
+
+“Yeah,” said Ron, “and lucky Harry doesn’t lose his head in a crisis — ‘there’s no wood,’ honestly.”
+
+“This way,” said Harry, pointing down a stone passageway, which was the only way forward.
+
+All they could hear apart from their footsteps was the gentle drip of water trickling down the walls. The passageway sloped downward, and Harry was reminded of Gringotts. With an unpleasant jolt of the heart, he remembered the dragons said to be guarding vaults in the wizards’ bank. If they met a dragon, a fully-grown dragon — Norbert had been bad enough….
+
+“Can you hear something?” Ron whispered.
+
+Harry listened. A soft rustling and clinking seemed to be coming from up ahead.
+
+“Do you think it’s a ghost?”
+
+“I don’t know…sounds like wings to me.”
+
+“There’s light ahead — I can see something moving.”
+
+They reached the end of the passageway and saw before them a brilliantly lit chamber, its ceiling arching high above them. It was full of small, jewel-bright birds, fluttering and tumbling all around the room. On the opposite
+[harry_potter_p0201-0220.pdf | Page 203] Shaking, Harry moved three spaces to the left.
+
+The white king took off his crown and threw it at Harry’s feet. They had won. The chessmen parted and bowed, leaving the door ahead clear. With one last desperate look back at Ron, Harry and Hermione charged through the door
+
+and up the next passageway.
+
+“What if he’s —?”
+
+“He’ll be all right,” said Harry, trying to convince himself. “What do you reckon’s next?”
+
+“We’ve had Sprout’s, that was the Devil’s Snare; Flitwick must’ve put charms on the keys; McGonagall transfigured the chessmen to make them alive; that leaves Quirrell’s spell, and Snape’s.”
+
+They had reached another door.
+
+“All right?” Harry whispered.
+
+“Go on.”
+
+Harry pushed it open.
+
+A disgusting smell filled their nostrils, making both of them pull their robes up over their noses. Eyes watering, they saw, flat on the floor in front of them, a troll even larger than the one they had tackled, out cold with a bloody lump on its head.
+
+“I’m glad we didn’t have to fight that one,” Harry whispered as they stepped carefully over one of its massive legs. “Come on, I can’t breathe.”
+
+He pulled open the next door, both of them hardly daring to look at what came next - but there was nothing very frightening in here, just a table with seven differently shaped bottles standing on it in a line.
+[harry_potter_p0201-0220.pdf | Page 204] “Snape’s,” said Harry. “What do we have to do?”
+
+They stepped over the threshold, and immediately a fire sprang up behind them in the doorway. It wasn’t ordinary fire either; it was purple. At the same instant, black flames shot up in the doorway leading onward. They were trapped.
+
+“Look!” Hermione seized a roll of paper lying next to the bottles. Harry looked over her shoulder to read it:
+
+Danger lies before you, while safety lies behind, Two of us will help you, which ever you would find, One among us seven will let you move ahead, Another will transport the drinker back instead, Two among our number hold only nettle wine, Three of us are killers, waiting bidden in line. Choose, unless you wish to stay here forevermore, To help you in your choice, we give you these clues four: First, however slyly the poison tries to hide You will always find some on nettle wine’s left side; Second, different are those who stand at either end, But if you would move onward, neither is your friend;
+
+Third, as you see clearly, all are different size, Neither dwarf nor giant holds death in their insides; Fourth, the second left and the second on the right Are twins once you taste them, though different at first sight.
